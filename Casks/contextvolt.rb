@@ -12,8 +12,8 @@
 # Run installer/homebrew/update_cask.sh <version> to fill it in automatically.
 
 cask "contextvolt" do
-  version "2.3.0"
-  sha256 "53c4c3bb3cce2ddb46266971276015b0f7c4943b07d7bfb419bd43555c6fb291"
+  version "2.4.0"
+  sha256 "d89640477e1c712b210396fa33b13913acc37d65024f489f8b0320fdbc0c5430"
 
   url "https://github.com/Rithvickkr/ContextVolt/releases/download/v#{version}/ContextVolt-#{version}-macOS.dmg",
       verified: "github.com/Rithvickkr/ContextVolt/"
